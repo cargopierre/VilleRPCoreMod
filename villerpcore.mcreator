@@ -410,8 +410,8 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.join.name": "Join",
       "tile.weedstage3.name": "Weeds tage0",
+      "item.join.name": "Join",
       "item.weed.name": "Weed",
       "itemGroup.tabvillerp": "Ville RP",
       "tile.weedstage5.name": "Weeds tage0",
