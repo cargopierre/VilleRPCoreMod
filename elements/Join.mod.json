@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "food",
+  "definition": {
+    "renderType": 1,
+    "texture": "join",
+    "customModelName": "join:default",
+    "name": "Join",
+    "creativeTab": {
+      "value": "CUSTOM:VilleRP"
+    },
+    "stackSize": 1,
+    "nutritionalValue": -3,
+    "saturation": 0.3,
+    "eatingSpeed": 50,
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "drink",
+    "hasGlow": false,
+    "onRightClicked": {
+      "name": "JoinFoodEaten"
+    },
+    "onEaten": {
+      "name": "JoinFoodEaten"
+    }
+  }
+}

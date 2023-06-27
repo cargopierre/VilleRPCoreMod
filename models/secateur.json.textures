@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "manche1",
+        "1": "lame_2",
+        "2": "ressord_3"
+      },
+      "name": "default"
+    }
+  }
+}

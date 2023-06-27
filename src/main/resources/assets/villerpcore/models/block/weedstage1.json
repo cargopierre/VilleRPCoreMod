@@ -1,0 +1,8 @@
+{
+  "parent": "villerpcore:custom/weed_stage_1",
+  "textures": {
+    "all": "villerpcore:blocks/weedstage1",
+    "particle": "villerpcore:blocks/weedstage1",
+    "0": "villerpcore:blocks/weedplantstage1"
+  }
+}

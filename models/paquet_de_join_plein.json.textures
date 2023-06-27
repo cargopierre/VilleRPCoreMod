@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "paquet1",
+        "1": "paquet2"
+      },
+      "name": "default"
+    }
+  }
+}

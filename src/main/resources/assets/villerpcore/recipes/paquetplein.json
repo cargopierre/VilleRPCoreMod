@@ -1,0 +1,42 @@
+{
+  "group": "villerpcore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "villerpcore:join"
+    },
+    "1": {
+      "item": "villerpcore:join"
+    },
+    "2": {
+      "item": "villerpcore:join"
+    },
+    "3": {
+      "item": "villerpcore:join"
+    },
+    "4": {
+      "item": "villerpcore:paquetdejoinvide"
+    },
+    "5": {
+      "item": "villerpcore:join"
+    },
+    "6": {
+      "item": "villerpcore:join"
+    },
+    "7": {
+      "item": "villerpcore:join"
+    },
+    "8": {
+      "item": "villerpcore:join"
+    }
+  },
+  "result": {
+    "item": "villerpcore:paquetdejoinplein",
+    "count": 1
+  }
+}

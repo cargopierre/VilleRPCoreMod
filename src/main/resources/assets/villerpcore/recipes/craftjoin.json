@@ -1,0 +1,42 @@
+{
+  "group": "villerpcore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:paper"
+    },
+    "1": {
+      "item": "minecraft:paper"
+    },
+    "2": {
+      "item": "minecraft:paper"
+    },
+    "3": {
+      "item": "villerpcore:weed"
+    },
+    "4": {
+      "item": "villerpcore:weed"
+    },
+    "5": {
+      "item": "villerpcore:weed"
+    },
+    "6": {
+      "item": "minecraft:paper"
+    },
+    "7": {
+      "item": "minecraft:paper"
+    },
+    "8": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "villerpcore:join",
+    "count": 1
+  }
+}

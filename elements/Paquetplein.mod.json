@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Join"
+      },
+      {
+        "value": "CUSTOM:Join"
+      },
+      {
+        "value": "CUSTOM:Join"
+      },
+      {
+        "value": "CUSTOM:Join"
+      },
+      {
+        "value": "CUSTOM:Paquetdejoinvide"
+      },
+      {
+        "value": "CUSTOM:Join"
+      },
+      {
+        "value": "CUSTOM:Join"
+      },
+      {
+        "value": "CUSTOM:Join"
+      },
+      {
+        "value": "CUSTOM:Join"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Paquetdejoinplein"
+    },
+    "name": "paquetplein",
+    "namespace": "mod"
+  }
+}

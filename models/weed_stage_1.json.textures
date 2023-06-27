@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "weedplantstage1"
+      },
+      "name": "default"
+    }
+  }
+}
